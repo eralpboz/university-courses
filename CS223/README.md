@@ -1,9 +1,19 @@
-# CS 223 - Digital Design
+# CS 223 Labs
 
-This directory contains my lab assignments for **CS 223**.
+This repository contains my weekly lab assignments for **CS 223**.
 
-## Course Overview
-This course explores the fundamental principles of digital hardware design, bridging the gap between electronic circuits and computer architecture. It starts with foundational digital concepts like number systems, Boolean algebra, and logic gates, progressing to the detailed design of combinational and sequential logic circuits. A major focus is placed on using Hardware Description Languages, specifically Verilog HDL, to model and simulate complex systems including Finite State Machines (FSMs), arithmetic logic units, and programmable processors.
-
-## Structure
-*(Upload your lab folders here, e.g., `Lab01`, `Lab02`)*
+## Course Syllabus (Weekly Topics)
+1. Introduction, digital values, number systems: decimal, binary and hexadecimal
+2. Logic gates and physical characteristics, CMOS transistors, power consumption Boolean algebra Boolean equations, canonical forms
+3. Combinational logic, hardware reduction, X and Z logic values, introduction to Verilog
+4. Karnaugh maps, MUXes and decoders, Combinational timing & non-ideal behavior, Verilog modelling
+5. Latches & flip-flops, basic register, synchronous logic design
+6. Finite state machines, encoding, Mealy vs. Moore
+7. FSM examples, Verilog modelling
+8. Timing, parallelism, Verilog modelling; MIDTERM EXAM
+9. Arithmetic functions, adders, subtractors, comparators, shifters, ALU, Verilog models
+10. Counters, shift registers, Timers, Verilog models
+11. Counters, shift registers, Timers, Verilog models
+12. High Level State Machines
+13. High Level State Machines
+14. Programmable Processors

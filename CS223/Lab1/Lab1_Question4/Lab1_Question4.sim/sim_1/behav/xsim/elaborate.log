@@ -1,0 +1,21 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_logic_function_behav xil_defaultlib.tb_logic_function xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Vivaldo/Lab1/Lab1_Question4/Lab1_Question4.srcs/sim_1/new/testbench_logic_function.sv" Line 1. Module tb_logic_function doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivaldo/Lab1/Lab1_Question4/Lab1_Question4.srcs/sources_1/new/Logic_function.sv" Line 21. Module logic_function doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivaldo/Lab1/Lab1_Question4/Lab1_Question4.srcs/sources_1/new/Logic_function.sv" Line 2. Module decoder_2to4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Vivaldo/Lab1/Lab1_Question4/Lab1_Question4.srcs/sources_1/new/Logic_function.sv" Line 13. Module mux_8to1 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.decoder_2to4
+Compiling module xil_defaultlib.mux_8to1
+Compiling module xil_defaultlib.logic_function
+Compiling module xil_defaultlib.tb_logic_function
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_logic_function_behav

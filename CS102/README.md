@@ -1,9 +1,20 @@
-# CS 102 - Introduction to Programming II (Java)
+# CS 102 Labs
 
-This directory contains my lab assignments for **CS 102**.
+This repository contains my basic weekly lab assignments for **CS 102**. 
+*(Note: A larger, separate project for this course is kept in a different repository).*
 
-## Course Overview
-Building upon foundational programming knowledge, this course dives deeper into advanced Java concepts and modern software development techniques. It emphasizes a thorough understanding of Object-Oriented Programming (OOP) principles, including inheritance and polymorphism. The curriculum also extensively covers event-driven programming and the creation of Graphical User Interfaces (GUIs), alongside crucial topics such as recursion, exception handling, file I/O operations, and basic searching and sorting algorithms.
-
-## Structure
-*(Upload your lab folders here, e.g., `Lab01`, `Lab02`)*
+## Course Syllabus (Weekly Topics)
+1. Introduction & review
+2. Review (objects, classes & arrays, + design exercises)
+3. Review continued
+4. Inheritance & polymorphism
+5. Abstract classes & interfaces
+6. Abstract classes & interfaces
+7. GUIs
+8. GUIs
+9. GUI's
+10. Recursion
+11. Recursion
+12. Data Structures
+13. Data structures
+14. Streams & exceptions

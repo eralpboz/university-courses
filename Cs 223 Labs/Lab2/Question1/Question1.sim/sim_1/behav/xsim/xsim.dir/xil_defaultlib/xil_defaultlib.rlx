@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Vivaldo/Lab2/Question1/Question1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
+C:/Vivaldo/Lab2/Question1/Question1.srcs/sim_1/new/testbenchForRegister.sv,1774738511,systemVerilog,,,,testbenchForRegister,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivaldo/Lab2/Question1/Question1.srcs/sources_1/new/D_Flip_Flop.sv,1774801714,systemVerilog,,C:/Vivaldo/Lab2/Question1/Question1.srcs/sources_1/new/Multifnonctinal_Register.sv,,D_Flip_Flop,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivaldo/Lab2/Question1/Question1.srcs/sources_1/new/Multifnonctinal_Register.sv,1774738772,systemVerilog,,C:/Vivaldo/Lab2/Question1/Question1.srcs/sources_1/new/Multiplexer_8_to_1.sv,,multifunction_register,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Vivaldo/Lab2/Question1/Question1.srcs/sources_1/new/Multiplexer_8_to_1.sv,1774737630,systemVerilog,,C:/Vivaldo/Lab2/Question1/Question1.srcs/sim_1/new/testbenchForRegister.sv,,Multiplexer_8_to_1,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
