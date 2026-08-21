@@ -1,6 +1,6 @@
 # University Coursework Repository
 
-Welcome to my university coursework repository! This repository contains my lab assignments, projects, and homework from various Computer Science courses.
+Welcome to my university coursework repository! This repository contains my lab assignments and homework from various Computer Science courses.
 
 ## Courses Included
 
@@ -11,7 +11,10 @@ Welcome to my university coursework repository! This repository contains my lab 
 
 ## Repository Structure
 
-Each course has its own dedicated directory containing the respective assignments, lab works, and projects. Please navigate to the specific course directory to view its contents and detailed README.
+Each course has its own dedicated directory containing the respective lab works and homeworks. Please navigate to the specific course directory to view its contents and detailed README.
+
+- **CS 101, CS 102, CS 223**: Contain lab assignments.
+- **CS 201**: Contains homework assignments.
 
 ---
 *Created and maintained by Eralp.*

@@ -1,9 +1,9 @@
 # CS 101 - Introduction to Programming I (Java)
 
-This directory contains my coursework, lab assignments, and projects for **CS 101**.
+This directory contains my lab assignments for **CS 101**.
 
 ## Course Overview
-This course focuses on the fundamentals of Java programming, covering basic syntax, control structures, methods, arrays, and an introduction to object-oriented programming concepts.
+This course provides a comprehensive introduction to Java programming, focusing on building a strong foundation in algorithmic thinking and problem-solving. Key areas covered include basic syntax, data types, control structures like if/else statements and loops, defining and using methods, and working with arrays. Additionally, it serves as an entry point into object-oriented programming by introducing the fundamental concepts of classes and objects.
 
 ## Structure
-*(Upload your lab folders and assignments here, e.g., `Lab01`, `Assignment1`)*
+*(Upload your lab folders here, e.g., `Lab01`, `Lab02`)*
