@@ -1,7 +1,0 @@
-0.7
-2020.2
-Nov 14 2025
-19:37:27
-C:/Vivaldo/Lab1/Lab1_Question1/Lab1_Question1.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
-C:/Vivaldo/Lab1/Lab1_Question1/Lab1_Question1.srcs/sim_1/new/testbench_mux.sv,1772449395,systemVerilog,,,,tb_mux,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/Vivaldo/Lab1/Lab1_Question1/Lab1_Question1.srcs/sources_1/new/mux_16to1.sv,1772449591,systemVerilog,,C:/Vivaldo/Lab1/Lab1_Question1/Lab1_Question1.srcs/sim_1/new/testbench_mux.sv,,mux_16to1;mux_4to1,,uvm,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
